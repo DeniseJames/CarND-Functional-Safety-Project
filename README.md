@@ -19,16 +19,8 @@ The follow five documents are completed and saved as pdf files.
 
 * 05_SoftwareRequirementsAndArchitecture_LaneAssistance.pdf
 
-All five documents have been completed.
-
-The repo also contains an Architecture_Diagrams folder containing visuals that you will need to complete the reports. These visuals are in no particular order, and you will decide in which document or documents they belong.
 
 
-### Project Rubric
-You can find the project rubric in the classroom. 
-
-
-### Software
 
 MSWord, MS Excel and Adobe Acrobat were used to create these five documents.
 
